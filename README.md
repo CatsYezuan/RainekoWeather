@@ -1,4 +1,4 @@
-<p align="center"><b>简体中文</b> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a></p>
+<p align="center"><b>简体中文</b> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a></p>
 
 <p align="center"><img src="assets/banner.png" width="100%" alt="Raineko Weather · 一款高可定义度的多功能天气软件" /></p>
 

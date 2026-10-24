@@ -1,6 +1,6 @@
-<p align="center"><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <b>日本語</b></p>
+<p align="center"><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <b>日本語</b></p>
 
-<p align="center"><img src="assets/banner.png" width="100%" alt="Raineko Weather · 自分好みに設定できる多機能な天気アプリ" /></p>
+<p align="center"><img src="assets/banner.ja.png" width="100%" alt="Raineko Weather · 自分好みに設定できる多機能な天気アプリ" /></p>
 
 <h2 align="center">新たな一歩、新たな装い。</h2>
 <p align="center">新しい視点で、天気を感じる。</p>
