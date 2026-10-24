@@ -11,7 +11,7 @@
 
 <h2>概览，一目了然。</h2>
 <p>此刻的天气，关心的动态。<br />把纷繁信息，整理成一眼可见的日常。</p>
-<p><a href="assets/overview.png"><img src="assets/overview.png" width="100%" alt="你的日常，一屏尽览" /></a></p>
+<p><a href="assets/overview.svg"><img src="assets/overview.svg" width="100%" alt="你的日常，一屏尽览" /></a></p>
 <p align="center"><sub>你的日常，一屏尽览</sub></p>
 
 <table>
@@ -24,11 +24,11 @@
 
 <h2>广域信息，天下我有。</h2>
 <p>连接广域数据，持续接收动态。<br />从信息到提醒，让每一次变化及时抵达。</p>
-<p><a href="assets/map.png"><img src="assets/map.png" width="100%" alt="地震预警与震度分布 · 界面截图" /></a></p>
+<p><a href="assets/map.svg"><img src="assets/map.svg" width="100%" alt="地震预警与震度分布 · 界面截图" /></a></p>
 <p align="center"><sub>地震预警与震度分布 · 界面截图</sub></p>
 
 <h3>台站观测，一图尽览。</h3>
-<p><a href="assets/stations.png"><img src="assets/stations.png" width="100%" alt="台站分布与实时观测界面" /></a></p>
+<p><a href="assets/stations.svg"><img src="assets/stations.svg" width="100%" alt="台站分布与实时观测界面" /></a></p>
 <p align="center"><sub>台站分布与实时观测界面</sub></p>
 
 <br />
@@ -39,7 +39,7 @@
     <td width="50%" valign="top"><h3>换上自然透镜，<br />聆听自然的声音。</h3><p>让降水成为眼前的风景，让雨声填满片刻宁静。<br />天气，也可以用感受来读懂。</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="middle"><a href="assets/themes.png"><img src="assets/themes.png" width="100%" alt="当前版本的个性化主题设置" /></a></td>
+    <td width="50%" valign="middle"><a href="assets/themes.svg"><img src="assets/themes.svg" width="100%" alt="当前版本的个性化主题设置" /></a></td>
     <td width="50%" valign="middle"><a href="assets/lens.jpg"><img src="assets/lens.jpg" width="100%" alt="自然透镜宣传图：立体雨景与降水变化" /></a></td>
   </tr>
 </table>

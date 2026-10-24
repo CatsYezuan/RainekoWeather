@@ -11,7 +11,7 @@
 
 <h2>Everything at a glance.</h2>
 <p>The weather now. The updates that matter.<br />Bring a world of information into one clear view.</p>
-<p><a href="assets/overview.png"><img src="assets/overview.png" width="100%" alt="Your day, in one view" /></a></p>
+<p><a href="assets/overview.svg"><img src="assets/overview.svg" width="100%" alt="Your day, in one view" /></a></p>
 <p align="center"><sub>Your day, in one view</sub></p>
 
 <table>
@@ -24,11 +24,11 @@
 
 <h2>A wider view of the world.</h2>
 <p>Stay connected to data from across regions.<br />From updates to alerts, stay informed as things change.</p>
-<p><a href="assets/map.png"><img src="assets/map.png" width="100%" alt="Earthquake alerts and intensity distribution · Interface screenshot" /></a></p>
+<p><a href="assets/map.svg"><img src="assets/map.svg" width="100%" alt="Earthquake alerts and intensity distribution · Interface screenshot" /></a></p>
 <p align="center"><sub>Earthquake alerts and intensity distribution · Interface screenshot</sub></p>
 
 <h3>Station observations at a glance.</h3>
-<p><a href="assets/stations.png"><img src="assets/stations.png" width="100%" alt="Station coverage and observation interface" /></a></p>
+<p><a href="assets/stations.svg"><img src="assets/stations.svg" width="100%" alt="Station coverage and observation interface" /></a></p>
 <p align="center"><sub>Station coverage and observation interface</sub></p>
 
 <br />
@@ -39,7 +39,7 @@
     <td width="50%" valign="top"><h3>Look through Nature Lens.<br />Listen to the natural world.</h3><p>Watch rainfall become a landscape, and let the sound of rain fill a quiet moment.<br />Weather is something you can feel, too.</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="middle"><a href="assets/themes.png"><img src="assets/themes.png" width="100%" alt="Theme settings in the current version" /></a></td>
+    <td width="50%" valign="middle"><a href="assets/themes.svg"><img src="assets/themes.svg" width="100%" alt="Theme settings in the current version" /></a></td>
     <td width="50%" valign="middle"><a href="assets/lens.jpg"><img src="assets/lens.jpg" width="100%" alt="Nature Lens promotional image with 3D rain and precipitation trends" /></a></td>
   </tr>
 </table>

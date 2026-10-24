@@ -11,7 +11,7 @@
 
 <h2>知りたいことを、ひと目で。</h2>
 <p>今の天気も、気になる動きも。<br />さまざまな情報を、ひと目でわかる日常へ。</p>
-<p><a href="assets/overview.png"><img src="assets/overview.png" width="100%" alt="毎日の情報を、ひとつの画面に" /></a></p>
+<p><a href="assets/overview.svg"><img src="assets/overview.svg" width="100%" alt="毎日の情報を、ひとつの画面に" /></a></p>
 <p align="center"><sub>毎日の情報を、ひとつの画面に</sub></p>
 
 <table>
@@ -24,11 +24,11 @@
 
 <h2>広がる情報を、ひとつの視野に。</h2>
 <p>広域のデータとつながり、変化を受け取り続ける。<br />情報からお知らせへ、その動きを届けます。</p>
-<p><a href="assets/map.png"><img src="assets/map.png" width="100%" alt="地震早期警報と震度分布 · 画面例" /></a></p>
+<p><a href="assets/map.svg"><img src="assets/map.svg" width="100%" alt="地震早期警報と震度分布 · 画面例" /></a></p>
 <p align="center"><sub>地震早期警報と震度分布 · 画面例</sub></p>
 
 <h3>観測点の情報を、ひと目で。</h3>
-<p><a href="assets/stations.png"><img src="assets/stations.png" width="100%" alt="観測点の分布と観測画面" /></a></p>
+<p><a href="assets/stations.svg"><img src="assets/stations.svg" width="100%" alt="観測点の分布と観測画面" /></a></p>
 <p align="center"><sub>観測点の分布と観測画面</sub></p>
 
 <br />
@@ -39,7 +39,7 @@
     <td width="50%" valign="top"><h3>自然のレンズを通して、<br />自然の音に耳を澄ます。</h3><p>降水が目の前の風景になり、雨音が静かなひとときを満たす。<br />天気は、感じることでもわかります。</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="middle"><a href="assets/themes.png"><img src="assets/themes.png" width="100%" alt="現行版のテーマ設定画面" /></a></td>
+    <td width="50%" valign="middle"><a href="assets/themes.svg"><img src="assets/themes.svg" width="100%" alt="現行版のテーマ設定画面" /></a></td>
     <td width="50%" valign="middle"><a href="assets/lens.jpg"><img src="assets/lens.jpg" width="100%" alt="立体的な雨景と降水の変化を表現した自然透镜の紹介画像" /></a></td>
   </tr>
 </table>
